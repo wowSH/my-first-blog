@@ -25,7 +25,7 @@ SECRET_KEY = '7kdwa07--@t2%2vdjycmp=hnev@f8hyyy1xpvauja%m-=@4xrr'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['cogito28.pythonanywhere.com']
+ALLOWED_HOSTS = []
 
 
 # Application definition
